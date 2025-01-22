@@ -1,0 +1,1 @@
+This code works via the use of Python, BeautifulSoup, and Selenium. All these are used to web scrape a fabricated Zillow page and automate data entry by entering the homes' prices, links, and addresses into a Google Form. Afterwards, a Google Sheet can be made from the responses entered in the Google Form.
